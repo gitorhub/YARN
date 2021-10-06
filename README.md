@@ -87,3 +87,8 @@ yarn pack mydep
 # LIST GLOBAL CACHE PACKAGES
 yarn cache list
 yarn cache list --pattern lodash
+
+
+# CONFIG GENERAL
+[https://classic.yarnpkg.com/en/docs/cli/config](https://classic.yarnpkg.com/en/docs/cli/config)
+

@@ -1,0 +1,9 @@
+{
+  "name": "yarnq",
+  "version": "1.0.0",
+  "description": "desc",
+  "main": "index.js",
+  "repository": "https://github.com/gitorhub/YARN.git",
+  "author": "Huseyin Dasci <huseyindasci.tr@gmail.com>",
+  "license": "MIT"
+}
